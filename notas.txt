@@ -1,0 +1,4 @@
+Este é um teste para as notas que se encontra no repo "sgmg-lab1-repo" do github
+"FilipaMarinha".
+
+Sequenciação de Genomas e Metagenómica, 30/11/2025

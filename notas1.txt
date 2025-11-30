@@ -1,0 +1,2 @@
+Este é o segundo teste da adição de ficheiros a um repo no github.
+
